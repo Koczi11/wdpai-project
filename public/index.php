@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-$message = "Gryf Miechów!";
+$message = "Fotonlab XD Gryf Miechów!";
 ?>
 <!doctype html>
 <html lang="en">
